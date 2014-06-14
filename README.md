@@ -13,3 +13,5 @@ var bouyomiServer = {};
 
 bouyomiConnect.sendBouyomi(bouyomiServer, "message");
 ```
+
+ｷｪｪｪｪｪｪｱｧｧｧｧｧｧｼｬｧﾍﾞｯﾀｧｧｧｧｧｧｧ!!!
